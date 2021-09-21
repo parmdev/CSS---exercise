@@ -1,2 +1,0 @@
-# CSS---exercise
-Practicando css
